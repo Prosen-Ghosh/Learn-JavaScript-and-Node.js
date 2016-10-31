@@ -8,7 +8,7 @@ console.log(str1);
 console.log(str2);
 console.log(a);
 console.log(numStr);
-if(numStr === num){ // === means strict-equals
+if(numStr === /*means strict-equals*/ num){ // === 
   console.log("Both Variables Type Are Same.");
 }
 else {
