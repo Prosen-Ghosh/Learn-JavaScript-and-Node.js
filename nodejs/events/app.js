@@ -18,3 +18,4 @@ people.forEach(function(x){
 
 Prosen.emit('say','Hello Qaium')
 Qaium.emit('say','Hello Prosen')
+ 

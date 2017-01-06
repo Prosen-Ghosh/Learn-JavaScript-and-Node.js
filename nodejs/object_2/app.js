@@ -9,4 +9,4 @@ var name_of_the_property = 'lastname';
 
 // here we can dynamically called the property
 console.log(obj['firstname']);
-console.log(obj[name_of_the_property]);
+console.log(obj[name_of_the_property]);  
