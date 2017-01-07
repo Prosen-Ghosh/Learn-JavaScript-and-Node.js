@@ -1,0 +1,14 @@
+{
+  "name": "static_file_and_middleware",
+  "version": "1.0.0",
+  "description": "\"Static File And Middle Ware\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prosen Ghosh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
