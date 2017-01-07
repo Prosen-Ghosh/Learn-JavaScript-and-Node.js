@@ -8,6 +8,3 @@ random.on('data',function(chunk){
     console.log(chunk.length);
     randomWrite.write(chunk);
 });
-
-
-
