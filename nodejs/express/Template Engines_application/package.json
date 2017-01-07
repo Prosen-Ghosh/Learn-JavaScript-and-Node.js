@@ -1,0 +1,15 @@
+{
+  "name": "tamplateengines",
+  "version": "1.0.0",
+  "description": "\"Tamplate and Tamplate engines\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prosen Ghosh",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0"
+  }
+}
